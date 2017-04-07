@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmi:id="_UBvHQIK3EeKPfujJENXmXw" type="EcoreTools" name="osterhase.ecorediag" measurementUnit="Pixel">
+  <children xmi:type="notation:Node" xmi:id="_UBvuUIK3EeKPfujJENXmXw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_UBwVYIK3EeKPfujJENXmXw" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_UBwVYYK3EeKPfujJENXmXw" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_UBw8cIK3EeKPfujJENXmXw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="osterhase.ecore#//Serie/teiler"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_UBw8cYK3EeKPfujJENXmXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_UBw8coK3EeKPfujJENXmXw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="osterhase.ecore#//Serie/bezahlt"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_UBw8c4K3EeKPfujJENXmXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_UBw8dIK3EeKPfujJENXmXw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="osterhase.ecore#//Serie/ausgegeben"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_UBw8dYK3EeKPfujJENXmXw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_UBwVYoK3EeKPfujJENXmXw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_UBwVY4K3EeKPfujJENXmXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_UBwVZIK3EeKPfujJENXmXw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_UBwVZYK3EeKPfujJENXmXw" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_UBwVZoK3EeKPfujJENXmXw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_UBwVZ4K3EeKPfujJENXmXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_UBwVaIK3EeKPfujJENXmXw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_UBvuUYK3EeKPfujJENXmXw" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="osterhase.ecore#//Serie"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UBvuUoK3EeKPfujJENXmXw" x="1"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_UBw8doK3EeKPfujJENXmXw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_UBxjgIK3EeKPfujJENXmXw" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_UBxjgYK3EeKPfujJENXmXw" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_UBxjiYK3EeKPfujJENXmXw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="osterhase.ecore#//Schuetze/name"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_UBxjioK3EeKPfujJENXmXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_UBxji4K3EeKPfujJENXmXw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="osterhase.ecore#//Schuetze/jung"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_UBxjjIK3EeKPfujJENXmXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_UBxjjYK3EeKPfujJENXmXw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="osterhase.ecore#//Schuetze/ort"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_UByKkIK3EeKPfujJENXmXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_UByKkYK3EeKPfujJENXmXw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="osterhase.ecore#//Schuetze/nummer"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_UByKkoK3EeKPfujJENXmXw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_UBxjgoK3EeKPfujJENXmXw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_UBxjg4K3EeKPfujJENXmXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_UBxjhIK3EeKPfujJENXmXw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_UBxjhYK3EeKPfujJENXmXw" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_UBxjhoK3EeKPfujJENXmXw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_UBxjh4K3EeKPfujJENXmXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_UBxjiIK3EeKPfujJENXmXw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_UBw8d4K3EeKPfujJENXmXw" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="osterhase.ecore#//Schuetze"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UBw8eIK3EeKPfujJENXmXw" x="27" y="145" width="131" height="118"/>
+  </children>
+  <children xmi:type="notation:Node" xmi:id="_UByKk4K3EeKPfujJENXmXw" type="1001">
+    <children xmi:type="notation:Node" xmi:id="_UByKloK3EeKPfujJENXmXw" type="4001"/>
+    <children xmi:type="notation:Node" xmi:id="_UByKl4K3EeKPfujJENXmXw" type="5001">
+      <children xmi:type="notation:Node" xmi:id="_UByxpIK3EeKPfujJENXmXw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="osterhase.ecore#//OsterhasenSchiessen/preisjung"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_UByxpYK3EeKPfujJENXmXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_UByxpoK3EeKPfujJENXmXw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="osterhase.ecore#//OsterhasenSchiessen/preisalt"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_UByxp4K3EeKPfujJENXmXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_UByxqIK3EeKPfujJENXmXw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="osterhase.ecore#//OsterhasenSchiessen/preisnachkauf"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_UByxqYK3EeKPfujJENXmXw"/>
+      </children>
+      <children xmi:type="notation:Node" xmi:id="_UByxqoK3EeKPfujJENXmXw" type="2001">
+        <element xmi:type="ecore:EAttribute" href="osterhase.ecore#//OsterhasenSchiessen/altersgrenze"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_UByxq4K3EeKPfujJENXmXw"/>
+      </children>
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_UByKmIK3EeKPfujJENXmXw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_UByKmYK3EeKPfujJENXmXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_UByKmoK3EeKPfujJENXmXw"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_UByxoIK3EeKPfujJENXmXw" type="5002">
+      <styles xmi:type="notation:DrawerStyle" xmi:id="_UByxoYK3EeKPfujJENXmXw"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_UByxooK3EeKPfujJENXmXw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_UByxo4K3EeKPfujJENXmXw"/>
+    </children>
+    <styles xmi:type="notation:ShapeStyle" xmi:id="_UByKlIK3EeKPfujJENXmXw" fontColor="4210752" fontName="Segoe UI" fontHeight="10" fillColor="13761016" lineColor="8421504"/>
+    <element xmi:type="ecore:EClass" href="osterhase.ecore#//OsterhasenSchiessen"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_UByKlYK3EeKPfujJENXmXw" y="307"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_UBvHQYK3EeKPfujJENXmXw"/>
+  <element xmi:type="ecore:EPackage" href="osterhase.ecore#/"/>
+  <edges xmi:type="notation:Edge" xmi:id="_UBzYsIK3EeKPfujJENXmXw" type="3002" source="_UBw8doK3EeKPfujJENXmXw" target="_UBvuUIK3EeKPfujJENXmXw">
+    <children xmi:type="notation:Node" xmi:id="_UBzYtIK3EeKPfujJENXmXw" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UBzYtYK3EeKPfujJENXmXw" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_UBzYtoK3EeKPfujJENXmXw" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UBzYt4K3EeKPfujJENXmXw" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_UBzYsYK3EeKPfujJENXmXw" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_UBzYsoK3EeKPfujJENXmXw" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="osterhase.ecore#//Schuetze/serien"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UBzYs4K3EeKPfujJENXmXw" points="[0, 0, 0, 60]$[0, -60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UCCpQIK3EeKPfujJENXmXw" id="(0.5,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UCCpQYK3EeKPfujJENXmXw" id="(0.4970414201183432,1.0)"/>
+  </edges>
+  <edges xmi:type="notation:Edge" xmi:id="_UBzYuIK3EeKPfujJENXmXw" type="3002" source="_UByKk4K3EeKPfujJENXmXw" target="_UBw8doK3EeKPfujJENXmXw">
+    <children xmi:type="notation:Node" xmi:id="_UBzYvIK3EeKPfujJENXmXw" type="4011">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UBzYvYK3EeKPfujJENXmXw" x="-10" y="-10"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_UBz_wIK3EeKPfujJENXmXw" type="4012">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UBz_wYK3EeKPfujJENXmXw" x="10" y="10"/>
+    </children>
+    <styles xmi:type="notation:ConnectorStyle" xmi:id="_UBzYuYK3EeKPfujJENXmXw" lineColor="4210752"/>
+    <styles xmi:type="notation:FontStyle" xmi:id="_UBzYuoK3EeKPfujJENXmXw" fontColor="4210752" fontName="Segoe UI" fontHeight="10"/>
+    <element xmi:type="ecore:EReference" href="osterhase.ecore#//OsterhasenSchiessen/schuetzen"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_UBzYu4K3EeKPfujJENXmXw" points="[0, 0, 0, 60]$[0, -60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UCDQUIK3EeKPfujJENXmXw" id="(0.49707602339181284,0.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_UCDQUYK3EeKPfujJENXmXw" id="(0.5,1.0)"/>
+  </edges>
+</notation:Diagram>
